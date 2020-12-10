@@ -1,0 +1,9 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+body{
+  margin: 0;
+  background-color:#FFF6F4;
+  box-sizing: border-box;
+}
+a:hover{
+  color: #fff !important;
+}

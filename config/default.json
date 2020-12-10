@@ -1,0 +1,6 @@
+{
+    "port":5000,
+    "jwtSecret": "AbOf-I35G-xCC8g-qlMs",
+    "mongoUri":"mongodb+srv://vladislav:MegaPolis01@cluster0.ubsiz.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl":"http://127.0.0.1:5000"
+}
